@@ -5,9 +5,9 @@
 <p align="center">
 <a href="https://github.com/HackWeiser360"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
 <a href="https://github.com/HackWeiser360"><img title="Followers" src="https://img.shields.io/github/followers/HackWeiser360?color=blue&style=flat-square"></a>
-<a href="https://github.com/HackWeiser360"><img title="Stars" src="https://img.shields.io/github/stars/HackWeiser360/TellMe ?color=red&style=flat-square"></a>
-<a href="https://github.com/HackWeiser360"><img title="Forks" src="https://img.shields.io/github/forks/HackWeiser360/TellMe ?color=red&style=flat-square"></a>
-<a href="https://github.com/HackWeiser360"><img title="Watching" src="https://img.shields.io/github/watchers/HackWeiser360/TellMe ?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HackWeiser360"><img title="Stars" src="https://img.shields.io/github/stars/HackWeiser360/TellMe?color=red&style=flat-square"></a>
+<a href="https://github.com/HackWeiser360"><img title="Forks" src="https://img.shields.io/github/forks/HackWeiser360/TellMe?color=red&style=flat-square"></a>
+<a href="https://github.com/HackWeiser360"><img title="Watching" src="https://img.shields.io/github/watchers/HackWeiser360/TellMe?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HackWeiser360"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
